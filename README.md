@@ -1,9 +1,7 @@
 Hello World 😄
 Hello World!!, this repository is made by a polyglot.
-Hello World code, in different programming languages.
 
-Languages:
-
+Languages
 1. C
 2. C++
 3. Java

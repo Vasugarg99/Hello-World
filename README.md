@@ -1,5 +1,8 @@
-Hello World 😄
+#Hello World 😄
+
 Hello World!!, this repository is made by a polyglot.
+
+Hello World code, in differnet programming languages.
 
 Languages
 1. C

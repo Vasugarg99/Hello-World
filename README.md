@@ -12,3 +12,4 @@ Hello World code, in differnet programming languages.
 5. Python
 6. Scala
 7. Shell Scripting
+8. SQL
